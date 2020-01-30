@@ -29,7 +29,7 @@ export default function Types() {
         main: "#4fb466"
       },
       action: {
-        disabledBackground: "fff"
+        disabledBackground: "ffffff"
       }
     },
     overrides: {
@@ -39,6 +39,7 @@ export default function Types() {
           padding: "8px 16px",
           lineHeight: "1.5",
           fontWeight: 700
+          //
           // boxShadow: "0px 3px 1px -2px rgba(0,0,0,1), 0px 2px 2px 0px rgba(0,0,0,1), 0px 1px 5px 0px rgba(0,0,0,1)",
         },
         contained: {
